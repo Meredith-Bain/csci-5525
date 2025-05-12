@@ -1,0 +1,11 @@
+*.csv
+*.gz
+*.zip
+*.tsv
+*.txt
+*.json
+.DS_Store
+.env
+.venv
+/enhanced-medium-425515-n9-9fb07c5bb2ed.json
+
